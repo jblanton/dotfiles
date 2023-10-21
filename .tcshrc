@@ -1,0 +1,2 @@
+alias kf 'killall -9 WebKitPluginHost'
+
